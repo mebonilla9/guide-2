@@ -1,0 +1,7 @@
+[submodule "guide-2-be"]
+  path = guide-2-be
+  url = ../guide-2-be.git
+
+[submodule "guide-2-fe"]
+  path = guide-2-fe
+  url = ../guide-2-fe.git
